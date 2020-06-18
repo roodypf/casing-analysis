@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-
-
-
-# In[3]:
-
-
 import cv2
 import numpy as np
 
@@ -121,40 +109,3 @@ class analysis(object):
                 
 if __name__ == '__main__':
     analysis = analysis()
-
-
-# In[3]:
-
-
-#DODAĆ LICZNIK PIXELI!!!!!!!!!!!!
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
